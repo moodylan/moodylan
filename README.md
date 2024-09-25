@@ -1,5 +1,5 @@
-## Hi, this is Dylan! 👋
+## Hi, this is Dylan 👋
 
-- 💻 I'm currently working on: web and mobile app projects! 
-- 🔎 I'm currently learning: AWS, Typescript, Blender, and more
-- 📩 You can reach me at: dylanmoo2020@gmail.com, https://www.linkedin.com/in/dylanmoo/
+- 💻 I'm currently working on: full-stack web and mobile apps
+- 🎨 I'm currently learning: AWS, Typescript, Blender, and more
+- 📎 You can reach me at: dylanmoo2020@gmail.com, https://www.linkedin.com/in/dylanmoo/
