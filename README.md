@@ -1,4 +1,4 @@
-## Hi, this is Dylan 👋
+## Hi, I'm Dylan!
 
 - 💻 I'm currently working on: full-stack web and mobile apps
 - 🎨 I'm currently learning: AWS, Typescript, Blender, and more
