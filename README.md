@@ -57,5 +57,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=moodylan&theme=dark" alt="GitHub Stats" /></a>
