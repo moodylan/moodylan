@@ -1,4 +1,4 @@
-## Hi, I'm Dylan Moo 👋
+## Hi, I'm Dylan 👋
 
 - 🔭  I'm currently working on full stack web applications and distributed simulations.
   
